@@ -19,7 +19,8 @@
 		  + profile.json: input profile about customers.
 		  + transcript.json: input transcript of customers.
 		- Starbucks_Capstone_notebook.ipynb: python jupyter notebook source code.
-    - requirements.txt contains all libraries required to work with this project.
+    - requirements.txt: contains all libraries required to work with this project.
+    - Starbucks_Capstone_notebook-zh.ipynb: not used but incluđe in template.
 
 ## Licensing, Author, and Acknowledgements
     - Acknowledgements: Data input provided in this project is for doing Udacity data science capstone project only.
