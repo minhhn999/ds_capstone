@@ -2,6 +2,14 @@
 - github link: https://github.com/minhhn999/ds_capstone
 - blog link: https://medium.com/@minhdhbkhn/starbucks-offers-data-analysis-689bfeb89aed
 
+# Motivation for the project:
+For this project,  i will resolve some questions about dataset and lastly predict response user action on event like “offer view”, “offer completed” base on attributes of provided dataset. Some question are:
+- How distribution of user groups
+- How customer react to offer
+- Which gender most react to offer
+- Which gender is the most in each age group.
+- Which offer type is the most react
+
 ## Libraries used:
     python 3.7.9 + libraries required for project are in requirements.txt file.
 
